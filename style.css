@@ -4,8 +4,9 @@ body{
 h1{
     font-size: 40px;
     line-height: 20px;
-
-
+}
+p{
+    font-size: 20px;
 }
 .stay-focused{
     display: flex;
@@ -81,5 +82,29 @@ span{
 .develop{
     font-size: 30px;
     line-height: 20px;   
+}
+.mywork{
+    margin-right:10%;
+    padding-top: 10%;
+
+}
+.mypic img{
+    width: 80%;
+    margin-left:10%;
+}
+#stay{
+    text-align: center;
+
+}
+footer{
+    
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
    
